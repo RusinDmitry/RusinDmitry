@@ -2,7 +2,7 @@
 
   ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
  
-  ## About me 🙋🏽‍♂️
+  ## About me 🙋‍♂️
 - I'm ML engineer, on my work days I use Python, SQL, FastAPI and Pytorch
 - I’m master degree in information systems and technology at SibFU
 - I'm studying in graduate school at Siberian Federal University.
