@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center" >Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ! </h1>
+
+  ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+ 
+  ## About me 🙋🏽‍♂️
+- I'm ML engineer, on my work days I use Python, SQL, FastAPI and Pytorch
+- I’m master degree in information systems and technology at SibFU
+- I'm studying in graduate school at Siberian Federal University.
+- I love to travel, spend time with friends and family and have a great barbecue.
+
 
 ## Languages and tools 🔧
 
@@ -27,6 +36,17 @@
 [![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](rusind899@gmail.соm)
 
 </div>
+
+<details>	   
+  <summary><b>☄️ Courses</b></summary>
+  
+  [![Coursera](https://img.shields.io/badge/Coursera-0b0038?style=for-the-badge&logo=Coursera&logoColor=blue)](https://coursera.org/share/26a741802de561de77e7d7b0f4f825df)<br>
+  [![Coursera](https://img.shields.io/badge/Coursera-0b0038?style=for-the-badge&logo=Coursera&logoColor=blue)](https://coursera.org/share/c5b0ab9aaace74aeaaaaa80ffab9cafa)<br>
+  [![Coursera](https://img.shields.io/badge/Coursera-0b0038?style=for-the-badge&logo=Coursera&logoColor=blue)](https://coursera.org/share/0e76c27e236101550eb056f1da533f70) <br>
+  [![Karpov.courses](https://img.shields.io/badge/Karpov-courses-0b0038?style=for-the-badge&logo=Karpov&logoColor=blue)](https://lab.karpov.courses/certificate/b2bb4051-8cc8-41d4-ae04-4f7f51243acc/en/) <br>
+  [![Karpov.courses](https://img.shields.io/badge/Karpov-courses-0b0038?style=for-the-badge&logo=Karpov&logoColor=blue)](https://lab.karpov.courses/certificate/fa7032fb-d033-4f71-8843-2ad13475832e/en/)<br>
+  
+</details>
 
 <!--
 **RusinDmitry/RusinDmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
