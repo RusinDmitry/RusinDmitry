@@ -1,15 +1,15 @@
-<h1 align="center" >Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ! </h1>
+<h1 align="center" >Привет  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ! </h1>
 
   ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
  
-  ## About me 🙋‍♂️
-- I'm ML engineer, on my work days I use Python, SQL, FastAPI and Pytorch
-- I’m master degree in information systems and technology at SibFU
-- I'm studying in graduate school at Siberian Federal University.
-- I love to travel, spend time with friends and family and have a great barbecue.
+  ## Обо мне 🙋‍♂️
+- Я инженер машинного обучения, в рабочие дни использую Python, SQL, FastAPI и Pytorch.
+- Магистр информационных систем и технологий СФУ.
+- Учусь в аспирантуре Сибирского федерального университета.
+- Люблю путешествовать, проводить время с друзьями и семьей и готовить отличные шашлыки.
 
 
-## Languages and tools 🔧
+## Языки и инструменты 🔧
 
 <div align="center">
 
@@ -26,19 +26,17 @@
 </div>
 
 
-## Follow me 👀
+## Контакты 👀
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DmitryRusin)
-[![Instagram](https://img.shields.io/badge/Instagram-0b0038?style=for-the-badge&logo=Instagram&logoColor=#ab46e3)](https://www.instagram.com/rusin594/)
-[![Vkontakte](https://img.shields.io/badge/VK-0b0038?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/dima_rusin)
 [![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](rusind899@gmail.соm)
 
 </div>
 
 <details>	   
-  <summary><b>☄️ Courses</b></summary>
+  <summary><b>☄️ Курсы</b></summary>
   
   [![Coursera](https://img.shields.io/badge/Coursera-0b0038?style=for-the-badge&logo=Coursera&logoColor=blue)](https://coursera.org/share/26a741802de561de77e7d7b0f4f825df)<br>
   [![Coursera](https://img.shields.io/badge/Coursera-0b0038?style=for-the-badge&logo=Coursera&logoColor=blue)](https://coursera.org/share/c5b0ab9aaace74aeaaaaa80ffab9cafa)<br>
